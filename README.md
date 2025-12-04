@@ -59,9 +59,13 @@ Corporate segment records higher product returns, suggesting focus areas for cus
 🧭 Interactive Visual Features
 
 ✔ Region → State → Category drill-downs
+
 ✔ Dynamic slicers for segment/category-level filtering
+
 ✔ Discount vs Profit correlation view
+
 ✔ Return analysis for customer retention strategy
+
 ✔ Clean UI with intuitive navigation and visual clarity
 
 📌 Business Impact
@@ -93,8 +97,11 @@ Forecasting and predictive analysis using time series modeling
 .
 
 💬 Connect With Me
+
 📧 Email: [nnavyachary@gmail.com]
+
 🔗 LinkedIn: [https://www.linkedin.com/in/navya-sree-398ab22b2/]
+
 🐙 GitHub: []
 
 
