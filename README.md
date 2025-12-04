@@ -42,10 +42,15 @@ Standardizing column types
 Building star-schema-based model for optimized reporting
 
 ✨ Dashboard Features & Highlights
+
 🏆 KPI Highlights
+
 Metric	Value
+
 Total Sales	733K
+
 Total Profit	93.51K
+
 🔥 Key Insights
 
 West region leads in total sales, making it the strongest revenue-generating area.
@@ -94,7 +99,8 @@ Automated monthly performance refresh
 
 Forecasting and predictive analysis using time series modeling
 
-.
+
+
 
 💬 Connect With Me
 
@@ -102,6 +108,6 @@ Forecasting and predictive analysis using time series modeling
 
 🔗 LinkedIn: [https://www.linkedin.com/in/navya-sree-398ab22b2/]
 
-🐙 GitHub: []
+🐙 GitHub: [https://github.com/Navya1234sreee]
 
 
