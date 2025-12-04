@@ -80,6 +80,7 @@ Make fast, data-backed decisions with clear visuals
 
 📷 Dashboard Preview 
 
+https://github.com/Navya1234sreee/Global-retail-Dashboard/blob/main/dashboard.jpg
 
 🚀 Future Enhancements
 
@@ -88,3 +89,12 @@ Integration with live/SQL-based data source
 Automated monthly performance refresh
 
 Forecasting and predictive analysis using time series modeling
+
+.
+
+💬 Connect With Me
+📧 Email: [nnavyachary@gmail.com]
+🔗 LinkedIn: [https://www.linkedin.com/in/navya-sree-398ab22b2/]
+🐙 GitHub: []
+
+
